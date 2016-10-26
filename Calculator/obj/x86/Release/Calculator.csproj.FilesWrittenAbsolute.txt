@@ -1,0 +1,7 @@
+/home/natealcedo/Projects/Calculator/Calculator/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/natealcedo/Projects/Calculator/Calculator/obj/x86/Release/Calculator.gtk-gui.gui.stetic
+/home/natealcedo/Projects/Calculator/Calculator/bin/Release/Calculator.exe.mdb
+/home/natealcedo/Projects/Calculator/Calculator/bin/Release/Calculator.exe
+/home/natealcedo/Projects/Calculator/Calculator/obj/x86/Release/Calculator.exe
+/home/natealcedo/Projects/Calculator/Calculator/obj/x86/Release/Calculator.exe.mdb
+/home/natealcedo/Projects/Calculator/Calculator/bin/Release/info.lundin.math.dll
