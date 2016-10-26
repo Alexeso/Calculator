@@ -1,10 +1,10 @@
 ﻿<Properties StartupItem="Calculator/Calculator.csproj" RefactoringSettings.EnableRefactorings="True">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Calculator/gtk-gui/MainWindow.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Calculator/MainWindow.cs">
     <Files>
-      <File FileName="Calculator/MainWindow.cs" Line="1" Column="1" />
-      <File FileName="Calculator/Program.cs" Line="1" Column="1" />
-      <File FileName="Calculator/gtk-gui/MainWindow.cs" Line="371" Column="84" />
+      <File FileName="Calculator/MainWindow.cs" Line="54" Column="6" />
+      <File FileName="Calculator/Program.cs" Line="2" Column="11" />
+      <File FileName="Calculator/gtk-gui/MainWindow.cs" Line="381" Column="50" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
